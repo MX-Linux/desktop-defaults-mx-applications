@@ -1,3 +1,9 @@
+desktop-defaults-mx-applications (18.11.02) mx; urgency=medium
+
+  * modified geany presets (fehlix) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 22 Nov 2018 20:49:37 -0500
+
 desktop-defaults-mx-applications (18.11.01) mx; urgency=medium
 
   * added geany presets 
