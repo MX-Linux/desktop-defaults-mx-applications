@@ -1,3 +1,9 @@
+desktop-defaults-mx-applications (21.02.01mx21) mx; urgency=medium
+
+  * initial bullseye build 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 11 Feb 2021 13:05:30 -0500
+
 desktop-defaults-mx-applications (19.06.01) mx; urgency=medium
 
   * remove old LO config 
